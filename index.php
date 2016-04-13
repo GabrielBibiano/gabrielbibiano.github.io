@@ -1,4 +1,1 @@
-<?php 
-	header("location: http://gabrielbibiano.esy.es/portifolio");
-
- ?>
+<meta http-equiv="refresh" content=1;url="http://www.gabrielbibiano.esy.es">
